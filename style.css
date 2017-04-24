@@ -1,0 +1,101 @@
+/*************************
+           CSS
+**************************/
+h4{
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #072160;
+    font-family: sans-serif;
+    border: solid #072160;
+}
+main{
+    width: 845px;
+    height: 1024px;
+    margin: auto;
+    background-image: url('original.jpg');
+
+  }
+  .decale1 {
+    transform:rotate(270deg);
+    position:absolute;
+    left:65px;
+    top:150px;
+  }
+
+  .decale2 {
+    transform:rotate(0deg);
+    position:absolute;
+    left:300px;
+    top:130px;
+  }
+
+  .decale3 {
+    transform:rotate(0deg);
+    position:absolute;
+    left:645px;
+    top:320px;
+  }
+
+  .decale4 {
+    transform:rotate(0deg);
+    position:absolute;
+    left:380px;
+    top:315px;
+  }
+
+  .decale5 {
+    transform:rotate(0deg);
+    position:absolute;
+    left:95px;
+    top:390px;
+  }
+
+  .decale6 {
+    transform:rotate(0deg);
+    position:absolute;
+    left:95px;
+    top:640px;
+  }
+
+.decale7 {
+  transform:rotate(90deg);
+  position:absolute;
+  left:285px;
+  top:615px;
+  }
+
+.decale8 {
+  transform:rotate(360deg);
+  position:absolute;
+  left:645px;
+  top:125px;
+ }
+
+.decale9 {
+  transform:rotate(180deg);
+  position:absolute;
+  left:565px;
+  top:595px;
+ }
+
+.decale10 {
+  transform:rotate(270deg);
+  position:absolute;
+  left:635px;
+  top:845px;
+ }
+
+
+.decale11 {
+   transform:rotate(270deg);
+  position:absolute;
+  left:435px;
+  top:855px;
+ }
+
+.decale12 {
+position:absolute;
+left:95px;
+  top:920px;
+  }
